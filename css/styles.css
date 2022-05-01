@@ -52,3 +52,7 @@ p {
   margin-inline-end: 1.67em;
   padding-bottom: 0.8rem;
 }
+
+main {
+  display: flex;
+}
