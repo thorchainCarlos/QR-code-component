@@ -23,7 +23,6 @@ body {
   width: 290px;
   margin: 15px auto auto auto;
   display: flex;
-  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
 }
 
 .box {
